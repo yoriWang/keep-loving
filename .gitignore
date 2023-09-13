@@ -88,3 +88,13 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# DS_Store
+**/.DS_Store
+
+# Java Directory out file
+Java/out/
+Java/*.iml
+**/.idea
+Java/*.class
+Java/*.py
