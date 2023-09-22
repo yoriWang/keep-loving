@@ -1,4 +1,4 @@
-package com.learning.bubblesort;
+package com.learning.algorithm.bubblesort;
 
 /**
  * ClassName: BubbleSort
